@@ -1,1 +1,1 @@
-# CSS-accessible-dropdown-tooltip-collapse-
+# CSS-accessible-dropdown-tooltip-collapse
