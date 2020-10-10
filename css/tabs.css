@@ -1,0 +1,11 @@
+.tabs {
+  display: flex;
+  list-style: none;
+  gap: 1em;
+}
+.tab-pane {
+  display: none;
+}
+.active {
+  display: block !important;
+}

@@ -1,4 +1,6 @@
 @import "./nav.css";
+@import "./tabs.css";
+
 * {
   margin: 0;
   padding: 0;
@@ -46,7 +48,8 @@ main ul li .content {
   transform: translate(-50%, -50px);
   background-color: #fff;
   min-width: 400px;
-  transition: 0.5;
+  transition: 0.5s;
+  z-index: 1000;
 }
 main ul li .content::before {
   content: "";
